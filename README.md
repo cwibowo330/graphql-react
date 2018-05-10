@@ -1,6 +1,7 @@
 Simple GraphQL API with React FE
-
-cd server
-    - nodemon app.js
-cd client
-    - run: npm start
+## Quick Start
+- run `npm install` to install dependencies in client and server folders
+- in server folder:
+   - run `nodemon app.js`
+- in client folder:
+   - run `npm start`
